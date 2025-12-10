@@ -42,8 +42,9 @@ Add "Play Again?" option
 Difficulty levels (Easy: 1–50, Hard: 1–1000)
 Guess limit challenge
 Colorful output using ANSI codes
-
-Author
+```
+Author:
 alireza-babaee
+
 License
 This project is open source and available under the MIT License.
